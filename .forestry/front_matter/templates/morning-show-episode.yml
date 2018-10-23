@@ -1,0 +1,32 @@
+---
+label: Episode Details
+hide_body: true
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Episode Title
+  description: ''
+- type: datetime
+  name: date
+  label: Publish Date
+- type: number
+  name: episode
+  label: Episode Number
+  config:
+    min: '1'
+    step: '1'
+- type: textarea
+  name: description
+  label: Episode Summary
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+- type: text
+  name: mp3
+  label: MP3 URL
+- type: file
+  name: image
+  label: Social Image
+  description: 'Recommended size: 1012w by 506h'

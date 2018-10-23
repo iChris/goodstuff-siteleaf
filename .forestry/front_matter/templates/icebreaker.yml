@@ -1,0 +1,26 @@
+---
+label: Icebreaker Episode
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: show
+  label: show
+  default: icebreaker
+  hidden: true
+- type: text
+  name: layout
+  label: layout
+  default: episode
+  hidden: true
+- type: text
+  label: Path
+  name: permalink
+  description: Permalink for the episode starting with https://goodstuff.fm
+  default: "/icebreaker/"
+- type: include
+  template: morning-show-episode
+- type: include
+  template: sponsor
+pages:
+- _icebreaker/14.md
