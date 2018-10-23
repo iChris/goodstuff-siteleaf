@@ -1,11 +1,11 @@
 ---
 title: A Nipple Chafing Celebration of U2's Rattle and Hum
+date: 2018-10-19 15:48:29 -06:00
+permalink: "/atu2/88"
 show: atu2
 layout: episode
-permalink: "/atu2/88"
 sponsor: Want to help Chris make the show? \[Support him on his Patreon\]([https://www.patreon.com/ichris](https://www.patreon.com/ichris
   "https://www.patreon.com/ichris"))
-date: 2018-10-19 14:48:29 -0700
 episode: 88
 description: It's a musical journey and we're celebrating the 30th anniversary of
   that journey U2 took on Rattle and Hum - the movie and the album. Matt, Collin,
@@ -13,8 +13,8 @@ description: It's a musical journey and we're celebrating the 30th anniversary o
   America.
 mp3: https://media.transistor.fm/f3632313.mp3
 image: "/uploads/atu2-88.jpg"
-
 ---
+
 ### Want to Watch the Live Show?
 
 * 💙 [Follow us on our Twitch channel](https://www.twitch.tv/goodstuff_fm)
